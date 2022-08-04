@@ -22,7 +22,7 @@ while True:
         turtle.forward(50)
         c = 0
         d += 1
-        if d >= 3:
+        if d >= 3: # This number controls how many incomplete spirals it performs.
             break
 
 #turtle.hideturtle()

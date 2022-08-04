@@ -22,7 +22,7 @@ while True:
         turtle.forward(50)
         c = 0
         d += 1
-        if d >= 12:
+        if d >= 3:
             break
 
 #turtle.hideturtle()
